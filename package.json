@@ -1,0 +1,22 @@
+{
+  "name": "1-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabakmichal/1-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabakmichal/1-calculator/issues"
+  },
+  "homepage": "https://github.com/kabakmichal/1-calculator#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
